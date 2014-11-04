@@ -1,0 +1,6 @@
+dependencies {
+  compile(
+    'com.google.guava:guava:18.0',
+	project(':project1')
+  )
+}
